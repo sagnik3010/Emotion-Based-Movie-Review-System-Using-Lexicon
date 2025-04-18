@@ -1,5 +1,5 @@
 # 🎬 Emotion-Based Movie Review Recommendation System
-![](image.png)
+![](image.jpg)
 
 This project analyzes **IMDB movie reviews** using **emotion and sentiment detection** techniques to recommend films based on the user's current emotional state. It combines the power of **VADER**, **TextBlob**, and **NRC Lexicon** to extract deeper insights from reviews and recommend movies that align with your mood.
 
